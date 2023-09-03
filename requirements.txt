@@ -1,0 +1,9 @@
+Python version >= 3.9
+
+Libraries Used
+- poetry
+- textbase
+
+textbase-client >= 0.1.2
+openai >= 0.27.9
+requests >=2.31.0
